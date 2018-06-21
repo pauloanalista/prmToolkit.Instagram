@@ -1,0 +1,8 @@
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\bin\Release\netstandard2.0\prmToolkit.Instagram.deps.json
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\bin\Release\netstandard2.0\prmToolkit.Instagram.dll
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\bin\Release\netstandard2.0\prmToolkit.Instagram.pdb
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\obj\Release\netstandard2.0\prmToolkit.Instagram.csproj.CoreCompileInputs.cache
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\obj\Release\netstandard2.0\prmToolkit.Instagram.AssemblyInfoInputs.cache
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\obj\Release\netstandard2.0\prmToolkit.Instagram.AssemblyInfo.cs
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\obj\Release\netstandard2.0\prmToolkit.Instagram.dll
+C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\obj\Release\netstandard2.0\prmToolkit.Instagram.pdb

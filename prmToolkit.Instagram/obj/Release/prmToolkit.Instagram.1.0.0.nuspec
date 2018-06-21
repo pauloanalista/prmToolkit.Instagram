@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>prmToolkit.Instagram</id>
+    <version>1.0.0</version>
+    <authors>Paulo Rogério Martins Marques</authors>
+    <owners>Paulo Rogério Martins Marques</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/pauloanalista/prmToolkit.Configuration</projectUrl>
+    <iconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</iconUrl>
+    <description>Obtém informações do Instagram sem utilizar sua api oficial.</description>
+    <tags>instagram paulorogerio prmToolkit facebook youtube</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="HtmlAgilityPack" version="1.8.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_dev\ionic3xapi\git\prmToolkit.Instagram\prmToolkit.Instagram\bin\Release\netstandard2.0\prmToolkit.Instagram.dll" target="lib\netstandard2.0\prmToolkit.Instagram.dll" />
+  </files>
+</package>

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Paulo Rogério Martins Marques</Authors>
+    <Description>Obtém informações do Instagram sem utilizar sua api oficial.</Description>
+    <PackageIconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/pauloanalista/prmToolkit.Configuration</PackageProjectUrl>
+    <PackageTags>instagram paulorogerio prmToolkit facebook youtube</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.4" />
+  </ItemGroup>
+
+</Project>
